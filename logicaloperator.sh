@@ -9,7 +9,7 @@
 echo -e "enter mark1: \c"
 read -r a
 
-echo -e  "enter mark2 \c"
+echo -e  "enter mark2: \c"
 read -r b
 
 if test $a -ge 35 -a $b -ge 35
